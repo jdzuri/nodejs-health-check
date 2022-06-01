@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-health-check",
+  "version": "1.0.0",
+  "description": "Nodejs health check system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "health",
+    "check"
+  ],
+  "author": "jovid.win",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
